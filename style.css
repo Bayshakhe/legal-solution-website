@@ -1,0 +1,16 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'EB Garamond', serif;
+    font-weight: bold;
+}
+.text-gray{
+    color: #707070;
+}
+.bg-brown{
+    background-color: #B68C5A;;
+}
+.text-brown{
+    color: #B68C5A;
+}
