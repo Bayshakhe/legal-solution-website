@@ -56,13 +56,13 @@ p{
     background-size: cover;
     background-blend-mode: multiply;
 }
+.text-light-gray{
+    color: #CFCFCF;
+    font-size: 14px;
+}
 
 
 
-
-@media (min-width: 576px) {
-    
- }
  @media (min-width: 768px) { 
     h1{
         font-size: 65px;
