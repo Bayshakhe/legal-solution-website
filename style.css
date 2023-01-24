@@ -12,8 +12,15 @@ p{
     font-size: 14px;
     color: #707070;
 }
+.text-brown{
+    color: #B68C5A;
+}
 .text-gray{
     color: #707070;
+}
+.text-light-gray{
+    color: #CFCFCF;
+    font-size: 14px;
 }
 .bg-light-gray{
     background-color: #F3F3F3 !important;
@@ -21,12 +28,10 @@ p{
 .bg-brown{
     background-color: #B68C5A;;
 }
-.text-brown{
-    color: #B68C5A;
-}
 .banner{
-    background-image: url(./images/banner.png);
+    background-image: url(./images/banner.png), linear-gradient(to bottom, white, black);
     background-size: cover;
+    background-blend-mode: multiply;
 }
 .search-btn:hover{
     background-color: white;
@@ -55,10 +60,6 @@ p{
     background-color: #707070;
     background-size: cover;
     background-blend-mode: multiply;
-}
-.text-light-gray{
-    color: #CFCFCF;
-    font-size: 14px;
 }
 
 
