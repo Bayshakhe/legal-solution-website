@@ -9,6 +9,7 @@ section{
     margin-bottom: 100px;
 }
 p{
+    font-size: 14px;
     color: #707070;
 }
 .text-gray{
@@ -30,6 +31,27 @@ p{
 }
 .active-card{
     background-image: linear-gradient(to bottom, #E7E7E7, white);
+}
+.carousel-1{
+    background-image: url(./images/slider-1.jpg);
+    height: 100vh;
+    background-color: #707070;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+.carousel-2{
+    background-image: url(./images/slider-2.jpg);
+    height: 100vh;
+    background-color: #707070;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+.carousel-3{
+    background-image: url(./images/slider-3.jpg);
+    height: 100vh;
+    background-color: #707070;
+    background-size: cover;
+    background-blend-mode: multiply;
 }
 
 
